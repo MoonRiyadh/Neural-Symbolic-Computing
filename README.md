@@ -7,3 +7,6 @@ except the ones under `Training` and `Loss progression` then use the cells under
 
 to train and test the trained model, please set `LOAD=False` under `Test`
 for testing the (newly) trained model.
+
+You can download model_params.pyt from this link: 
+https://oc.cs.uni-saarland.de/owncloud/index.php/s/NN5N2jGT6fktKdd
