@@ -1,3 +1,7 @@
+In this project, we will train a neural network on basic arithmetic operations on variables, which is a task that
+reoccurs very often while interpreting code.The goal of this project is to teach a neural network a basic arithmetic understanding of addition and
+subtraction of two variables x and y.
+
 # Neural-Symbolic-Computing
 `model_params.pyt` contains the saved model, will be automatically downloaded
 if `LOAD` under `Test`is set to `True`.
